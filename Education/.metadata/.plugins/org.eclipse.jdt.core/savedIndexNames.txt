@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+D:\Projects\XushaJava\JavaLabs-master\JavaLabs-master\Education\.metadata\.plugins\org.eclipse.jdt.core

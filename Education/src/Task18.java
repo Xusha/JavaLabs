@@ -1,3 +1,4 @@
+package src;
 
 public class Task18 {
 	void DoSomethig() {
@@ -12,3 +13,4 @@ public class Task18 {
 	}
 	
 }
+
