@@ -90,7 +90,8 @@ public class XushaTheBest {
 //	
 //-------------------------------------------------------------	
 //	
-		
+//		NewTask1 test = new NewTask1();
+//		test.getArrayOfTime(2);
 		
 	}
 

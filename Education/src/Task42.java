@@ -2,6 +2,12 @@ package src;
 
 import java.util.Arrays;
 
+/**
+ * 42. ƒано целое число K и массив из дес€ти целых ненулевых чисел.
+ *  ¬ывести номер последнего числа в массиве, большего K. ≈сли таких чисел нет, то вывести 0.
+ * @author dev
+ *
+ */
 public class Task42 {
 	public int getLastNumber(int k) {
 		int[] ar = new int[10];

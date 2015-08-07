@@ -1,5 +1,13 @@
 package src;
 
+/**
+ * 30. ƒано вещественное число A и целое число N (> 0). 
+ * »спользу€ один цикл, найти значение выражени€ 1 Ц A + A2 Ц A3 + Е + (Ц1)NЈAN. 
+ * ”словный оператор не использовать.
+ * @author dev
+ *
+ */
+
 public class Task30 {
 
 	public double getValue(float a, int n) {

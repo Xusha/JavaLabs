@@ -1,5 +1,10 @@
 package src;
 
+/**
+ * Дано двузначное число. Вывести число, полученное при перестановке цифр исходного числа.
+ * @author dev
+ *
+ */
 public class Task10 {
 	
 	void DoSomething() {
